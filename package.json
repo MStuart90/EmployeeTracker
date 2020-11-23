@@ -1,0 +1,26 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "A database application to track employee information.",
+  "main": "EmployeeTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MStuart90/EmployeeTracker.git"
+  },
+  "keywords": [
+    "EmployeeTracker"
+  ],
+  "author": "Melanie Stuart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MStuart90/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/MStuart90/EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
